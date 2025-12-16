@@ -18,6 +18,7 @@ public class Operator2 {
 
         // 문자열과 숫자 더하기 2
         int num = 20;
+        Stirng alpar = "number";
 
 
     }
