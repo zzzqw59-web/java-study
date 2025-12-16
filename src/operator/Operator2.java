@@ -17,7 +17,9 @@ public class Operator2 {
         System.out.println(result3);
 
         // 문자열과 숫자 더하기 2
-//        int num = 20;
+        int num = 20;
+        String A = "Delight";
+
 
     }
 }
