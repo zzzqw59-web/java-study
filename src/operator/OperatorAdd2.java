@@ -7,8 +7,8 @@ public class OperatorAdd2 {
         int b = 0;
 
         b = ++a; // a의 값을 증가시키고, b에 대입
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
+        System.out.println("a = " + a); // 2
+        System.out.println("b = " + b); // 1
 
         // 후위 증감 연산자
         a = 1;
