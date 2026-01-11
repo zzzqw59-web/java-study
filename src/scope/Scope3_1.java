@@ -10,6 +10,7 @@ public class Scope3_1 {
             System.out.println("temp = " + temp);
         }
         System.out.println("m = " + m);
+        System.out.println("m = " + m);
 
     }
 
